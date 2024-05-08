@@ -1,0 +1,51 @@
+.white {
+    background-color: white;
+    margin: 50px 30px 50px 50px;
+    padding: 30px;
+    border-radius: 20px;
+}
+
+body{
+    background-color:antiquewhite ;
+}
+h1 {
+    font-family: playfair display;
+}
+
+.preparation {
+    background-color: rgba(198,108,138,0.1);
+    padding: 20px;
+    line-height: 25px;
+}
+
+.boy {
+    color: chocolate;
+}
+
+li {
+    padding: 10px 10px 10px 10px;
+}
+
+table {
+    width: 100%;
+    overflow-x: hidden;
+    border-collapse: collapse;
+}
+
+tr, td {
+    border-bottom:1px solid dimgray;
+   
+    padding: 20px 100px 20px 20px;
+    
+    text-align: left;
+}
+
+img {
+    border-radius: 20px;
+}
+
+.time {
+    color: rgba(198,108,138,0.9);
+}
+
+
